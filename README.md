@@ -33,3 +33,17 @@ I used adobe xd to create ui designs.
 This is my individual project and I tried as much as I can to complete the app.Hope I will complete the remaining work in future as soon as possible.
 
 ### API Key is used in this project just to authenticate the user.
+
+<img src="https://user-images.githubusercontent.com/60555992/134818122-5c307c11-8e33-4d03-ab84-a4576edf7259.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818128-b85b31bb-ea05-4287-851b-e361a97fa7dd.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818140-cc2250a9-698b-4281-9631-a26df8cf1abc.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818142-b589e732-25e1-4908-a543-b0c343296229.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818167-601d1cb2-b5cd-49a8-8649-e6b33a9c670b.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818178-069d833d-c36c-466e-b112-50cb90b744d4.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818182-f96c537f-431e-4cbb-b94d-fe1addb6816e.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818186-56d950f9-0b39-4d01-8b1c-0c2385b29bcf.jpeg" align="left" height="240" width="240" ></a>
+<img src="https://user-images.githubusercontent.com/60555992/134818194-64cd3ec8-b7ef-4c77-b131-cd9d2c3be450.jpeg" align="left" height="240" width="240" ></a>
+
+##
+the first screen is splash screen in which the logo and app name animates bottom and up and after few seconds it animates to another page.
+
